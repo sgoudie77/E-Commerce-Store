@@ -447,7 +447,7 @@ text-align: end;
   gap: 10px;
   justify-content: center;
 
-  /* box-shadow: 0px 0px 12px #18191b; */
+  box-shadow: 0px 0px 12px #18191b;
   /* z-index: 99; */
 }
 .footer-container .icons{

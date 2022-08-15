@@ -7,9 +7,9 @@ body, * {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   box-sizing: border-box;
 }
-::-webkit-scrollbar {
+/* ::-webkit-scrollbar {
   width: 0px;
-}
+} */
 
 a {
   color: inherit;
@@ -303,7 +303,7 @@ text-align: end;
   padding: 100px 40px;
   /* background-color: #f02d34; */
   background-color: #26272b;
-  /* box-shadow: 0px 0px 12px #18191b; */
+  box-shadow: 0px 0px 12px #18191b;
   /* z-index: 99; */
   /* border-radius: 15px; */
   position: relative;
